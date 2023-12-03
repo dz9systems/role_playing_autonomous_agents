@@ -1,0 +1,31 @@
+# If you're using a virtual environment (e.g., venv or virtualenv), you should ignore the directory containing the virtual environment.
+venv/
+
+# Ignore the __pycache__ directory and .pyc files (Python bytecode files):
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment-specific files like .env or .env.*:
+.env*
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore compiled code or build artifacts
+dist/
+build/
+
+# If you generate documentation, ignore the output directory
+docs/_build/
+
+# If you use Jupyter Notebooks, ignore the output files
+.ipynb_checkpoints/
+
+# Ignore files or directories created by your integrated development environment (IDE) or text editor.
+.vscode/
+
+# Ignore IDE configuration files (e.g., .idea/ for PyCharm):
+.idea/

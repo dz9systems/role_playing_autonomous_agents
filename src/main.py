@@ -160,7 +160,7 @@ def get_sys_msgs(assistant_role_name: str, user_role_name: str, task: str):
 
 
 def main():
-    st.title("AI Conversation Simulator")
+    st.title("CAMEL Role-Playing Autonomous Cooperative Agents")
 
     # Automated setup for task specification
     task = "Develop a trading bot for the stock market"  # Example task
@@ -179,7 +179,8 @@ def main():
     )[0]
     specified_task_msg = task_specify_agent.step(task_specifier_msg)
     specified_task = specified_task_msg.content
-    st.write(f"Specified task: {specified_task}")
+    st.markdown(f"### Specified task:")
+    st.write(specified_task)
 
     # Setup AI agents
     assistant_sys_msg, user_sys_msg = get_sys_msgs(assistant_role_name, user_role_name, specified_task)
