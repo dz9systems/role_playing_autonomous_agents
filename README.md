@@ -40,6 +40,3 @@ This AI Conversation Simulator is a Python-based application that leverages the 
   ```bash
         streamlit run src/main.py
 
- - ***Execute the main script version 2:***
-  ```bash
-        streamlit run src/main2.py
