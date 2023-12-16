@@ -2,13 +2,34 @@
 https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/5f3e0bc4-3101-44f3-8604-56d0539315bb
 
 ## Project Overview
-
 This AI Conversation Simulator is a Python-based application that leverages the power of AI to simulate conversations between two virtual agents. The application is built using the Streamlit framework, offering an interactive user interface for users to observe and analyze AI-driven dialogues. The primary use case of this application is to demonstrate and test the capabilities of AI in generating coherent and contextually relevant conversations.
 
 ## Features
 
-- AI-driven conversation: The application simulates a back-and-forth conversation between two AI agents.
-- Streamlit-based UI: A user-friendly interface that makes it easy to interact with and monitor the AI agents' dialogue.
+- **User Input Interface:**
+  - Users can input details such as Assistant Role Name, User Role Name, Task, and Word Limit for Task Brainstorming through a Streamlit-based UI.
+  - A submit button triggers the execution of the program logic.
+
+- **AI Agent Implementation:**
+  - The code defines a class named `CAMELAgent` representing an autonomous cooperative agent.
+  - Agent initialization with a system message and a ChatOpenAI model.
+  - Methods include resetting the agent's state, initializing messages, updating messages, and handling interaction steps.
+
+- **Task Specification:**
+  - A task specifier system message and a human message prompt template are utilized to instruct the assistant in generating a specific task.
+  - The specified task is generated and displayed using Streamlit.
+
+- **Inception Prompts for Agent Roles:**
+  - Distinct system messages and user prompts are created for the Assistant and User roles, setting the context and rules for their interactions.
+
+- **System Messages Generation:**
+  - System messages are generated based on user inputs and specified tasks, forming the foundation for AI assistant and user agents.
+
+- **Agent Interaction Loop:**
+  - The code orchestrates a conversation loop between the AI assistant and user agents, displaying the conversation in a chat format using Streamlit.
+  - The conversation includes defined limits and conditions for task completion.
+
+**User Information Section:**
 
 ## Getting Started
 

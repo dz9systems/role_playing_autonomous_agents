@@ -235,7 +235,3 @@ if submit_button:
         if "<CAMEL_TASK_DONE>" in user_msg.content:
             break
 
-
-
-# if __name__ == "__main__":
-#     main()
