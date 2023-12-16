@@ -1,6 +1,5 @@
 # CAMEL Role-Playing Autonomous Cooperative Agents
-![CAMEL Role-Playing Autonomous Cooperative Agents](https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/f2719f0f-34fb-47e1-be63-3f781486dff0)
-
+https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/5f3e0bc4-3101-44f3-8604-56d0539315bb
 
 ## Project Overview
 
