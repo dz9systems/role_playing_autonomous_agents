@@ -23,6 +23,17 @@ This AI Conversation Simulator is a Python-based application that leverages the 
    ```bash
         git clone https://github.com/dz9systems/role_playing_autonomous_agents.git
 
+### Start Virtual Environment
+- ***Execute the following script:***
+  ```bash
+        python3 -m venv venv
+        source venv/bin/activate
+
+### Install Dependencies
+- ***Execute the following script:***
+  ```bash
+        pip install -r requirements.txt
+        
 ###  Running the Application
 - ***Execute the main script:***
   ```bash

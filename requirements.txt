@@ -2,3 +2,4 @@ langchain
 openai
 python-dotenv
 streamlit
+google-cloud-aiplatform
