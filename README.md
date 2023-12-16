@@ -1,4 +1,5 @@
 # CAMEL Role-Playing Autonomous Cooperative Agents
+![CAMEL Role-Playing Autonomous Cooperative Agents](https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/f2719f0f-34fb-47e1-be63-3f781486dff0)
 
 
 ## Project Overview
@@ -38,15 +39,3 @@ This AI Conversation Simulator is a Python-based application that leverages the 
 - ***Execute the main script:***
   ```bash
         streamlit run src/main.py
-
-
-
-
-
-
-
-
-
-
-
-
