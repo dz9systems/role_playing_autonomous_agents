@@ -2,7 +2,7 @@
 https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/5f3e0bc4-3101-44f3-8604-56d0539315bb
 
 ## Project Overview
-This AI Conversation Simulator is a Python-based application that leverages the power of AI to simulate conversations between two virtual agents. The application is built using the Streamlit framework, offering an interactive user interface for users to observe and analyze AI-driven dialogues. The primary use case of this application is to demonstrate and test the capabilities of AI in generating coherent and contextually relevant conversations.
+This AI Conversation Simulator, built using Python and the Langchain library, serves as a foundation for employing AI agents to accomplish real-world tasks. The application leverages the power of AI to simulate dynamic conversations between two virtual agents. Utilizing the Streamlit framework, it offers an interactive user interface for users to observe and analyze AI-driven dialogues. 
 
 ## Features
 
