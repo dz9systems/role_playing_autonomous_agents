@@ -1,8 +1,6 @@
 # CAMEL Role-Playing Autonomous Cooperative Agents
 https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/5f3e0bc4-3101-44f3-8604-56d0539315bb
 
-<span style="color: pink;">THE COMMITMENT APP</span>
-<span style="color: red;">text</span>
 ## Project Overview
 This AI Conversation Simulator, built using Python and the Langchain library, serves as a foundation for employing AI agents to accomplish real-world tasks. The application leverages the power of AI to simulate dynamic conversations between two virtual agents. Utilizing the Streamlit framework, it offers an interactive user interface for users to observe and analyze AI-driven dialogues. 
 
