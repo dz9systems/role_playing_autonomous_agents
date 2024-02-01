@@ -2,7 +2,9 @@
 https://github.com/dz9systems/role_playing_autonomous_agents/assets/77218260/5f3e0bc4-3101-44f3-8604-56d0539315bb
 
 ## Project Overview
-This AI Conversation Simulator, built using Python and the Langchain library, serves as a foundation for employing AI agents to accomplish real-world tasks. The application leverages the power of AI to simulate dynamic conversations between two virtual agents. Utilizing the Streamlit framework, it offers an interactive user interface for users to observe and analyze AI-driven dialogues. 
+CAMEL stands for “Communicative Agents for ‘Mind’ Exploration of Large Language Models.” It is developed and maintained by a team of researchers at King Abdullah University of Science and Technology (KAUST).
+
+This project serves as a foundation for employing AI agents to accomplish real-world tasks. The application leverages the power of AI to simulate dynamic conversations between two AI agents. Utilizing the Streamlit framework, it offers an interactive user interface for users to observe and analyze AI-driven dialogues.
 
 ## Features
 
